@@ -32,7 +32,7 @@
 
 ---
 ## **Status**:
-### Neste momento, o projeto encontra-se no processo de **ingestão de dados**, é possível conferir o status do S3 em 09/05/2023 na imagem abaixo:
+## Neste momento, o projeto encontra-se no processo de **ingestão de dados**, é possível conferir o status do S3 em 09/05/2023 na imagem abaixo:
 
 ![image](https://github.com/jonesamandajones/bolsa-familia/assets/101410608/e2732458-fe5e-41c2-ae52-63316e38bb55)
 
