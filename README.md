@@ -1,6 +1,4 @@
-# **Projeto de análise de dados do Bolsa-familia**
-
----
+# **Projeto de análise de dados do Bolsa-família**
 
 ## Este é o resultado parcial do projeto de análise dos dados do Bolsa-Família disponibilizados na [API do Portal da Transparência do Governo Federal](https://api.portaldatransparencia.gov.br/swagger-ui.html) que ainda está em processo. Este projeto iniciou-se no desejo de expandir meus conhecimento sobre as ferramentas da AWS, bem como praticar códigos, o uso de ferramentas e criar um banco de dados com informações populares para praticar a análise e interpretação de dados.
 
