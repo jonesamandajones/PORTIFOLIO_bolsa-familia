@@ -4,7 +4,6 @@ import requests
 import pandas as pd
 import io
 
-
 from botocore.exceptions import ClientError
 
 
@@ -148,7 +147,7 @@ def create_file(parameters, data):
     return saved_data
 
 
-def lambda_handler():
+def lambda_handler(event, context):
     contador = 1
     header = get_secret()
     url = 'https://api.portaldatransparencia.gov.br/api-de-dados/bolsa-familia-por-municipio'
@@ -172,11 +171,9 @@ def lambda_handler():
         if contador == 1700:
             break
     return saved_data
-
-
-lambda_handler()
-
-
-
-
-
+    
+    print('## ENVIRONMENT VARIABLES')
+    print(os.environ)
+    print('## EVENT')
+    print(event)
+    return saved_data

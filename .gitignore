@@ -180,4 +180,4 @@ Vagrantfile
 teste.py
 venvBF/
 .local/
-deploy
+/deploy
