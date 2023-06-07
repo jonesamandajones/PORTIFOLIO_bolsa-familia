@@ -47,10 +47,15 @@ Com o esquema de tabelas organizado na etapa 2, pretendo utilizar **Pyspark** e 
 
 ## **Status atual**:
 
-Neste momento, o projeto encontra-se no processo de **ingestão de dados**, é possível conferir o status do S3 em 09/05/2023 na imagem abaixo:
+Neste momento, o projeto encontra-se no processo de **ingestão de dados**, é possível conferir o status do S3 abaixo:
 
+09/05/2023 =>
 
 ![imagem](images/image.png)
+
+Atualização do estágio da ingestão em 07/06/2023 =>
+
+![imagem](images/image2.png)
 
 ## Entendendo a estrutura:
 
